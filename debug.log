@@ -1,0 +1,3518 @@
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-14T00:00:30.599Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-14T00:00:30.609Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-14T00:00:44.102Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-14T00:00:44.116Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-14T00:01:08.399Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-14T00:01:08.409Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-14T00:01:15.791Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-14T00:01:15.802Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-14T00:01:20.272Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-14T00:01:20.281Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-14T00:01:33.524Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-14T00:01:33.533Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-14T00:01:41.815Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-14T00:01:41.828Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-14T00:01:54.107Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-14T00:01:54.117Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:14:48.649Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:14:48.661Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:14:54.906Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:14:54.914Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:15:45.857Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:15:45.867Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:16:04.444Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:16:04.455Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:16:32.254Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:16:32.262Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:16:35.965Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:16:35.973Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:16:41.121Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:16:41.130Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:16:51.250Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:16:51.258Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:17:10.416Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:17:10.429Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:17:19.901Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:17:19.909Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:17:32.525Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:17:32.533Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:18:09.031Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:18:09.040Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:18:12.281Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:18:12.289Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:18:35.564Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:18:35.571Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:18:53.206Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:18:53.214Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:18:57.206Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:18:57.214Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:19:07.765Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:19:07.772Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:19:12.641Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:19:12.650Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:19:39.329Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:19:39.365Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:20:24.445Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:20:24.474Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:20:37.952Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:20:37.960Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:20:45.187Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:20:45.197Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:21:29.959Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:21:29.967Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:21:39.236Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:21:39.245Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:21:49.086Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:21:49.093Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:21:54.424Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:21:54.434Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:22:02.956Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:22:02.965Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:22:10.028Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:22:10.036Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:23:06.329Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:23:06.340Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:23:11.094Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:23:11.121Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:23:40.052Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:23:40.060Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:23:48.580Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:23:48.588Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:24:00.571Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:24:00.579Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:24:19.039Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:24:19.048Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:24:23.713Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:24:23.720Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:25:07.133Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:25:07.141Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:25:21.421Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:25:21.430Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:27:11.486Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:27:11.494Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:27:54.419Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:27:54.432Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:28:19.616Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:28:19.625Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:28:57.057Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:28:57.065Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:29:38.363Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:29:38.370Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:29:43.456Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:29:43.464Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:29:58.340Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:29:58.349Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:30:52.356Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:30:52.366Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:31:08.156Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:31:08.164Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:31:15.311Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:31:15.318Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:31:28.364Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:31:28.371Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:31:44.636Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:31:44.726Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:31:56.959Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:31:56.971Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:33:06.713Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:33:06.762Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:36:07.568Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:36:07.576Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:36:34.057Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:36:34.065Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:36:44.127Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:36:44.135Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:36:53.492Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:36:53.499Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:37:02.457Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:37:02.465Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:37:22.837Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:37:22.845Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:37:35.317Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:37:35.324Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:39:27.392Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:39:27.400Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:39:35.323Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:39:35.331Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:40:02.699Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:40:02.751Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:41:31.408Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:41:31.415Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:43:38.744Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:43:38.752Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:44:01.363Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:44:01.371Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:44:13.045Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:44:13.054Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:44:22.436Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:44:22.443Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:45:33.785Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:45:33.794Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:46:04.301Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:46:04.310Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:46:19.677Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:46:19.689Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:46:36.994Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:46:37.001Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:46:42.990Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:46:42.998Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:46:53.132Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:46:53.140Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:47:05.488Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:47:05.496Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:47:12.660Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:47:12.668Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:47:31.168Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:47:31.177Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:49:36.503Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:49:36.513Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:49:49.696Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:49:49.705Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:49:59.258Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:49:59.266Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:50:32.389Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:50:32.398Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:50:37.939Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:50:37.947Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:50:45.498Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:50:45.506Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:51:10.333Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:51:10.341Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:51:24.493Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:51:24.504Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:52:26.239Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:52:26.246Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:52:32.735Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:52:32.742Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:55:20.147Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:55:20.198Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:56:27.699Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:56:27.708Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:56:39.357Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:56:39.365Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:56:43.261Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:56:43.268Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T07:59:29.033Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T07:59:29.063Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T08:00:58.961Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T08:00:58.969Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T08:06:48.832Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T08:06:48.845Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T08:06:57.929Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T08:06:57.937Z'
+}
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { email: 1 },
+  keyValue: { email: 'markessioen@test.com' },
+  level: 'error',
+  timestamp: '2023-09-15T08:07:07.693Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { phoneNumber: 1 },
+  keyValue: { phoneNumber: '+2349071077743' },
+  level: 'error',
+  timestamp: '2023-09-15T08:07:39.952Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T08:27:01.032Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T08:27:01.041Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T08:28:22.105Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T08:28:22.112Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T08:29:17.324Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T08:29:17.329Z'
+}
+{ level: 'error', timestamp: '2023-09-15T08:29:32.960Z' }
+{ level: 'error', timestamp: '2023-09-15T08:29:49.580Z' }
+{
+  stringValue: '"650410d2fcca5e3a79sabhsbe5580"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: '650410d2fcca5e3a79sabhsbe5580',
+  path: '_id',
+  reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new ObjectId (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\bson\lib\bson.cjs:2006:23)
+      at castObjectId (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schema\objectid.js:246:12)
+      at SchemaType.applySetters (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1204:12)
+      at SchemaType.castForQuery (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1616:15)
+      at cast (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\cast.js:356:32)
+      at cast (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\cast.js:71:18)
+      at Query.cast (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\query.js:4866:12)
+      at Query._castConditions (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\query.js:2210:10)
+      at model.Query._findOne (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\query.js:2497:8),
+  valueType: 'string',
+  model: Model { Person },
+  level: 'error',
+  timestamp: '2023-09-15T08:31:58.020Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T08:33:05.246Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T08:33:05.255Z'
+}
+{
+  name: 'Error',
+  statusCode: 400,
+  status: 'failure',
+  data: undefined,
+  isOperational: true,
+  level: 'error',
+  timestamp: '2023-09-15T08:34:02.701Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T08:35:02.396Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T08:35:02.401Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T08:36:14.343Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T08:36:14.349Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T08:36:18.834Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T08:36:18.839Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T08:36:27.738Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T08:36:27.745Z'
+}
+{
+  name: 'Error',
+  statusCode: 404,
+  status: 'failure',
+  data: undefined,
+  isOperational: true,
+  level: 'error',
+  timestamp: '2023-09-15T08:36:31.905Z'
+}
+{
+  stringValue: '"ohayo"',
+  messageFormat: undefined,
+  kind: 'date',
+  value: 'ohayo',
+  path: 'createdAt',
+  reason: AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+  
+    assert.ok(false)
+  
+      at castDate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\cast\date.js:40:10)
+      at SchemaDate.cast (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schema\date.js:372:12)
+      at SchemaType.applySetters (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1204:12)
+      at SchemaDate.castForQuery (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schema\date.js:408:17)
+      at castUpdateVal (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\helpers\query\castUpdate.js:557:19)
+      at walkUpdatePath (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\helpers\query\castUpdate.js:362:24)
+      at castUpdate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\helpers\query\castUpdate.js:92:7)
+      at model.Query._castUpdate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\query.js:4665:10)
+      at model.Query._findOneAndUpdate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\query.js:3302:23)
+      at model.Query.exec (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\query.js:4396:28) {
+    generatedMessage: true,
+    code: 'ERR_ASSERTION',
+    actual: false,
+    expected: true,
+    operator: '=='
+  },
+  valueType: 'string',
+  level: 'error',
+  timestamp: '2023-09-15T08:37:31.438Z'
+}
+{
+  stringValue: '"2023-09-15T08:07:46.394Z"',
+  messageFormat: undefined,
+  kind: 'Number',
+  value: '2023-09-15T08:07:46.394Z',
+  path: 'deletedAt',
+  reason: AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+  
+    assert.ok(!isNaN(val))
+  
+      at castNumber (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\cast\number.js:27:10)
+      at SchemaNumber.cast (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schema\number.js:376:12)
+      at SchemaType.applySetters (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1204:12)
+      at SchemaNumber.castForQuery (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schema\number.js:430:14)
+      at castUpdateVal (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\helpers\query\castUpdate.js:557:19)
+      at walkUpdatePath (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\helpers\query\castUpdate.js:362:24)
+      at castUpdate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\helpers\query\castUpdate.js:92:7)
+      at model.Query._castUpdate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\query.js:4665:10)
+      at model.Query._findOneAndUpdate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\query.js:3302:23)
+      at model.Query.exec (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\query.js:4396:28) {
+    generatedMessage: true,
+    code: 'ERR_ASSERTION',
+    actual: false,
+    expected: true,
+    operator: '=='
+  },
+  valueType: 'string',
+  level: 'error',
+  timestamp: '2023-09-15T08:38:34.502Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T08:40:53.292Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T08:40:53.299Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T08:41:03.345Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T08:41:03.352Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T08:41:58.987Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T08:41:58.995Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T08:45:13.842Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T08:45:13.847Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T08:49:34.047Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T08:49:34.074Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T08:49:45.625Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T08:49:45.633Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T08:49:48.973Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T08:49:48.985Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T08:53:45.566Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T08:53:45.577Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T08:54:09.522Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T08:54:09.533Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T08:54:25.073Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T08:54:25.082Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:01:58.855Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:01:58.863Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:14:57.911Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:14:57.918Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:18:14.874Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:18:14.884Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:18:30.453Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:18:30.463Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:24:23.434Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:24:23.443Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:25:42.552Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:25:42.559Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:27:21.418Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:27:21.428Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:29:53.060Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:29:53.068Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:30:13.104Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:30:13.124Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:30:20.222Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:30:20.231Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:30:27.685Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:30:27.693Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:31:52.222Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:31:52.229Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:32:57.178Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:32:57.185Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:33:02.434Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:33:02.442Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:33:45.440Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:33:45.449Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:33:48.777Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:33:48.785Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:34:00.079Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:34:00.086Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:34:05.155Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:34:05.166Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:34:24.994Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:34:25.002Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:34:39.854Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:34:39.862Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:34:43.159Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:34:43.164Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:35:13.235Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:35:13.258Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:35:22.894Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:35:22.903Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:36:17.417Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:36:17.426Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:36:25.576Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:36:25.581Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:38:00.848Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:38:00.872Z'
+}
+{
+  errors: {
+    phoneNumber: ValidatorError: Path `phoneNumber` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `phoneNumber` is required.',
+        type: 'required',
+        path: 'phoneNumber',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'phoneNumber',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    age: ValidatorError: Path `age` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaNumber.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `age` is required.',
+        type: 'required',
+        path: 'age',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'age',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    email: ValidatorError: Path `email` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `email` is required.',
+        type: 'required',
+        path: 'email',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'email',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    fullName: ValidatorError: Path `fullName` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `fullName` is required.',
+        type: 'required',
+        path: 'fullName',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'fullName',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Person validation failed',
+  level: 'error',
+  timestamp: '2023-09-15T09:38:01.964Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:38:45.968Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:38:45.975Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:38:54.392Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:38:54.398Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:39:04.186Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:39:04.205Z'
+}
+{
+  errors: {
+    phoneNumber: ValidatorError: Path `phoneNumber` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `phoneNumber` is required.',
+        type: 'required',
+        path: 'phoneNumber',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'phoneNumber',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    age: ValidatorError: Path `age` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaNumber.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `age` is required.',
+        type: 'required',
+        path: 'age',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'age',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    email: ValidatorError: Path `email` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `email` is required.',
+        type: 'required',
+        path: 'email',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'email',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    fullName: ValidatorError: Path `fullName` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `fullName` is required.',
+        type: 'required',
+        path: 'fullName',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'fullName',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Person validation failed',
+  level: 'error',
+  timestamp: '2023-09-15T09:39:04.560Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:39:31.156Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:39:31.166Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:40:56.053Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:40:56.067Z'
+}
+{
+  errors: {
+    phoneNumber: ValidatorError: Path `phoneNumber` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `phoneNumber` is required.',
+        type: 'required',
+        path: 'phoneNumber',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'phoneNumber',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    age: ValidatorError: Path `age` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaNumber.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `age` is required.',
+        type: 'required',
+        path: 'age',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'age',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    email: ValidatorError: Path `email` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `email` is required.',
+        type: 'required',
+        path: 'email',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'email',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    fullName: ValidatorError: Path `fullName` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `fullName` is required.',
+        type: 'required',
+        path: 'fullName',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'fullName',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Person validation failed',
+  level: 'error',
+  timestamp: '2023-09-15T09:40:56.497Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:42:10.407Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:42:10.451Z'
+}
+{
+  errors: {
+    phoneNumber: ValidatorError: Path `phoneNumber` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `phoneNumber` is required.',
+        type: 'required',
+        path: 'phoneNumber',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'phoneNumber',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    age: ValidatorError: Path `age` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaNumber.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `age` is required.',
+        type: 'required',
+        path: 'age',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'age',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    email: ValidatorError: Path `email` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `email` is required.',
+        type: 'required',
+        path: 'email',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'email',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    fullName: ValidatorError: Path `fullName` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `fullName` is required.',
+        type: 'required',
+        path: 'fullName',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'fullName',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Person validation failed',
+  level: 'error',
+  timestamp: '2023-09-15T09:42:10.642Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:49:49.832Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:49:49.878Z'
+}
+{
+  errors: {
+    phoneNumber: ValidatorError: Path `phoneNumber` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `phoneNumber` is required.',
+        type: 'required',
+        path: 'phoneNumber',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'phoneNumber',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    age: ValidatorError: Path `age` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaNumber.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `age` is required.',
+        type: 'required',
+        path: 'age',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'age',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    email: ValidatorError: Path `email` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `email` is required.',
+        type: 'required',
+        path: 'email',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'email',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    fullName: ValidatorError: Path `fullName` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `fullName` is required.',
+        type: 'required',
+        path: 'fullName',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'fullName',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Person validation failed',
+  level: 'error',
+  timestamp: '2023-09-15T09:49:50.128Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:55:22.954Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:55:22.962Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:55:35.977Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:55:35.982Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:56:34.080Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:56:34.098Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T09:57:37.182Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T09:57:37.223Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T10:54:01.602Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T10:54:01.611Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T10:54:19.006Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T10:54:19.021Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T10:55:11.496Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T10:55:11.505Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T10:55:59.745Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T10:55:59.753Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T10:58:42.022Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T10:58:42.047Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:07:15.962Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:07:15.971Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:07:40.534Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:07:40.540Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:07:47.926Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:07:47.932Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:07:52.802Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:07:52.808Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:07:56.228Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:07:56.235Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:07:58.547Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:07:58.553Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:08:02.309Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:08:02.316Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:08:10.537Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:08:10.544Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:08:16.808Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:08:16.817Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:08:20.165Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:08:20.173Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:08:24.557Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:08:24.565Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:08:31.728Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:08:31.733Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:08:37.239Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:08:37.247Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:08:39.453Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:08:39.461Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:08:46.631Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:08:46.636Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:09:08.179Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:09:08.185Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:09:16.388Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:09:16.396Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:09:25.648Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:09:25.660Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:09:35.136Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:09:35.145Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:09:43.845Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:09:43.852Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:11:53.946Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:11:53.963Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:12:13.595Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:12:13.605Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:13:30.973Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:13:30.992Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:14:03.848Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:14:03.862Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:14:34.751Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:14:34.788Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:15:20.714Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:15:20.729Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:16:01.752Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:16:01.783Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:47:02.595Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:47:08.229Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:47:08.362Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:47:14.330Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:47:14.367Z'
+}
+{
+  errors: {
+    phoneNumber: ValidatorError: Path `phoneNumber` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `phoneNumber` is required.',
+        type: 'required',
+        path: 'phoneNumber',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'phoneNumber',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    age: ValidatorError: Path `age` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaNumber.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `age` is required.',
+        type: 'required',
+        path: 'age',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'age',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    email: ValidatorError: Path `email` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `email` is required.',
+        type: 'required',
+        path: 'email',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'email',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    fullName: ValidatorError: Path `fullName` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `fullName` is required.',
+        type: 'required',
+        path: 'fullName',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'fullName',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Person validation failed',
+  level: 'error',
+  timestamp: '2023-09-15T11:47:15.203Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:48:52.589Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:48:52.715Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:49:00.920Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:49:00.986Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:49:08.705Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:49:08.828Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:56:05.269Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:56:05.277Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:57:25.275Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:57:25.282Z'
+}
+{
+  errors: {
+    phoneNumber: ValidatorError: Path `phoneNumber` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `phoneNumber` is required.',
+        type: 'required',
+        path: 'phoneNumber',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'phoneNumber',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    age: ValidatorError: Path `age` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaNumber.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `age` is required.',
+        type: 'required',
+        path: 'age',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'age',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    email: ValidatorError: Path `email` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `email` is required.',
+        type: 'required',
+        path: 'email',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'email',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    fullName: ValidatorError: Path `fullName` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `fullName` is required.',
+        type: 'required',
+        path: 'fullName',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'fullName',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Person validation failed',
+  level: 'error',
+  timestamp: '2023-09-15T11:57:25.623Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T11:59:05.673Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T11:59:05.703Z'
+}
+{
+  errors: {
+    phoneNumber: ValidatorError: Path `phoneNumber` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `phoneNumber` is required.',
+        type: 'required',
+        path: 'phoneNumber',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'phoneNumber',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    age: ValidatorError: Path `age` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaNumber.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `age` is required.',
+        type: 'required',
+        path: 'age',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'age',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    email: ValidatorError: Path `email` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `email` is required.',
+        type: 'required',
+        path: 'email',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'email',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    fullName: ValidatorError: Path `fullName` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `fullName` is required.',
+        type: 'required',
+        path: 'fullName',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'fullName',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Person validation failed',
+  level: 'error',
+  timestamp: '2023-09-15T11:59:06.477Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T12:03:01.787Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T12:03:01.811Z'
+}
+{
+  errors: {
+    phoneNumber: ValidatorError: Path `phoneNumber` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `phoneNumber` is required.',
+        type: 'required',
+        path: 'phoneNumber',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'phoneNumber',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    age: ValidatorError: Path `age` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaNumber.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `age` is required.',
+        type: 'required',
+        path: 'age',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'age',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    email: ValidatorError: Path `email` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `email` is required.',
+        type: 'required',
+        path: 'email',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'email',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    fullName: ValidatorError: Path `fullName` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaString.Object.<anonymous>.SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `fullName` is required.',
+        type: 'required',
+        path: 'fullName',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'fullName',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Person validation failed',
+  level: 'error',
+  timestamp: '2023-09-15T12:03:02.241Z'
+}
+{
+  matcherResult: {
+    actual: 400,
+    expected: 200,
+    message: '\x1B[2mexpect(\x1B[22m\x1B[31mreceived\x1B[39m\x1B[2m).\x1B[22mtoEqual\x1B[2m(\x1B[22m\x1B[32mexpected\x1B[39m\x1B[2m) // deep equality\x1B[22m\n' +
+      '\n' +
+      'Expected: \x1B[32m200\x1B[39m\n' +
+      'Received: \x1B[31m400\x1B[39m',
+    name: 'toEqual',
+    pass: false
+  },
+  level: 'error',
+  timestamp: '2023-09-15T12:03:02.341Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T12:07:13.568Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T12:07:13.576Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T12:07:29.950Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T12:07:29.956Z'
+}
+{
+  errors: {
+    phoneNumber: ValidatorError: Path `phoneNumber` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `phoneNumber` is required.',
+        type: 'required',
+        path: 'phoneNumber',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'phoneNumber',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    age: ValidatorError: Path `age` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `age` is required.',
+        type: 'required',
+        path: 'age',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'age',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    email: ValidatorError: Path `email` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `email` is required.',
+        type: 'required',
+        path: 'email',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'email',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    fullName: ValidatorError: Path `fullName` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `fullName` is required.',
+        type: 'required',
+        path: 'fullName',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'fullName',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Person validation failed',
+  level: 'error',
+  timestamp: '2023-09-15T12:09:14.112Z'
+}
+{
+  errors: {
+    phoneNumber: ValidatorError: Path `phoneNumber` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `phoneNumber` is required.',
+        type: 'required',
+        path: 'phoneNumber',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'phoneNumber',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    age: ValidatorError: Path `age` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `age` is required.',
+        type: 'required',
+        path: 'age',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'age',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    email: ValidatorError: Path `email` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `email` is required.',
+        type: 'required',
+        path: 'email',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'email',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    fullName: ValidatorError: Path `fullName` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `fullName` is required.',
+        type: 'required',
+        path: 'fullName',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'fullName',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Person validation failed',
+  level: 'error',
+  timestamp: '2023-09-15T12:09:25.813Z'
+}
+{
+  errors: {
+    phoneNumber: ValidatorError: Path `phoneNumber` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `phoneNumber` is required.',
+        type: 'required',
+        path: 'phoneNumber',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'phoneNumber',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    age: ValidatorError: Path `age` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `age` is required.',
+        type: 'required',
+        path: 'age',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'age',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    email: ValidatorError: Path `email` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `email` is required.',
+        type: 'required',
+        path: 'email',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'email',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    fullName: ValidatorError: Path `fullName` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `fullName` is required.',
+        type: 'required',
+        path: 'fullName',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'fullName',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Person validation failed',
+  level: 'error',
+  timestamp: '2023-09-15T12:09:41.807Z'
+}
+{
+  errors: {
+    phoneNumber: ValidatorError: Path `phoneNumber` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `phoneNumber` is required.',
+        type: 'required',
+        path: 'phoneNumber',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'phoneNumber',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    age: ValidatorError: Path `age` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `age` is required.',
+        type: 'required',
+        path: 'age',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'age',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    email: ValidatorError: Path `email` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `email` is required.',
+        type: 'required',
+        path: 'email',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'email',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    fullName: ValidatorError: Path `fullName` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `fullName` is required.',
+        type: 'required',
+        path: 'fullName',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'fullName',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Person validation failed',
+  level: 'error',
+  timestamp: '2023-09-15T12:11:40.322Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T12:12:35.751Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T12:12:35.764Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T12:14:04.861Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T12:14:04.872Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T12:14:20.432Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T12:14:20.437Z'
+}
+{
+  errors: {
+    phoneNumber: ValidatorError: Path `phoneNumber` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `phoneNumber` is required.',
+        type: 'required',
+        path: 'phoneNumber',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'phoneNumber',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    age: ValidatorError: Path `age` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `age` is required.',
+        type: 'required',
+        path: 'age',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'age',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    email: ValidatorError: Path `email` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `email` is required.',
+        type: 'required',
+        path: 'email',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'email',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    fullName: ValidatorError: Path `fullName` is required.
+        at validate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1349:13)
+        at SchemaType.doValidate (C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\schematype.js:1333:7)
+        at C:\Users\HP\Documents\MERN\zuri_stage_two\node_modules\mongoose\lib\document.js:2932:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `fullName` is required.',
+        type: 'required',
+        path: 'fullName',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'fullName',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Person validation failed',
+  level: 'error',
+  timestamp: '2023-09-15T12:14:50.805Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T12:18:24.600Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T12:18:24.606Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T12:19:34.553Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T12:19:34.562Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T12:20:15.204Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T12:20:15.236Z'
+}
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { phoneNumber: 1 },
+  keyValue: { phoneNumber: '+2349071077744' },
+  level: 'error',
+  timestamp: '2023-09-15T12:20:19.599Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  matcherResult: {
+    actual: 400,
+    expected: 200,
+    message: '\x1B[2mexpect(\x1B[22m\x1B[31mreceived\x1B[39m\x1B[2m).\x1B[22mtoEqual\x1B[2m(\x1B[22m\x1B[32mexpected\x1B[39m\x1B[2m) // deep equality\x1B[22m\n' +
+      '\n' +
+      'Expected: \x1B[32m200\x1B[39m\n' +
+      'Received: \x1B[31m400\x1B[39m',
+    name: 'toEqual',
+    pass: false
+  },
+  level: 'error',
+  timestamp: '2023-09-15T12:20:19.672Z'
+}
+{
+  name: 'Error',
+  statusCode: 404,
+  status: 'failure',
+  data: undefined,
+  isOperational: true,
+  level: 'error',
+  timestamp: '2023-09-15T12:20:20.020Z'
+}
+{
+  matcherResult: {
+    actual: 404,
+    expected: 200,
+    message: '\x1B[2mexpect(\x1B[22m\x1B[31mreceived\x1B[39m\x1B[2m).\x1B[22mtoEqual\x1B[2m(\x1B[22m\x1B[32mexpected\x1B[39m\x1B[2m) // deep equality\x1B[22m\n' +
+      '\n' +
+      'Expected: \x1B[32m200\x1B[39m\n' +
+      'Received: \x1B[31m404\x1B[39m',
+    name: 'toEqual',
+    pass: false
+  },
+  level: 'error',
+  timestamp: '2023-09-15T12:20:20.050Z'
+}
+{
+  name: 'Error',
+  statusCode: 404,
+  status: 'failure',
+  data: undefined,
+  isOperational: true,
+  level: 'error',
+  timestamp: '2023-09-15T12:20:20.261Z'
+}
+{
+  matcherResult: {
+    actual: 404,
+    expected: 200,
+    message: '\x1B[2mexpect(\x1B[22m\x1B[31mreceived\x1B[39m\x1B[2m).\x1B[22mtoEqual\x1B[2m(\x1B[22m\x1B[32mexpected\x1B[39m\x1B[2m) // deep equality\x1B[22m\n' +
+      '\n' +
+      'Expected: \x1B[32m200\x1B[39m\n' +
+      'Received: \x1B[31m404\x1B[39m',
+    name: 'toEqual',
+    pass: false
+  },
+  level: 'error',
+  timestamp: '2023-09-15T12:20:20.332Z'
+}
+{
+  name: 'Error',
+  statusCode: 404,
+  status: 'failure',
+  data: undefined,
+  isOperational: true,
+  level: 'error',
+  timestamp: '2023-09-15T12:20:20.557Z'
+}
+{
+  matcherResult: {
+    actual: 404,
+    expected: 200,
+    message: '\x1B[2mexpect(\x1B[22m\x1B[31mreceived\x1B[39m\x1B[2m).\x1B[22mtoEqual\x1B[2m(\x1B[22m\x1B[32mexpected\x1B[39m\x1B[2m) // deep equality\x1B[22m\n' +
+      '\n' +
+      'Expected: \x1B[32m200\x1B[39m\n' +
+      'Received: \x1B[31m404\x1B[39m',
+    name: 'toEqual',
+    pass: false
+  },
+  level: 'error',
+  timestamp: '2023-09-15T12:20:20.634Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T12:21:29.542Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T12:21:29.567Z'
+}
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { phoneNumber: 1 },
+  keyValue: { phoneNumber: '+2349071077744' },
+  level: 'error',
+  timestamp: '2023-09-15T12:21:33.038Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  matcherResult: {
+    actual: 400,
+    expected: 200,
+    message: '\x1B[2mexpect(\x1B[22m\x1B[31mreceived\x1B[39m\x1B[2m).\x1B[22mtoEqual\x1B[2m(\x1B[22m\x1B[32mexpected\x1B[39m\x1B[2m) // deep equality\x1B[22m\n' +
+      '\n' +
+      'Expected: \x1B[32m200\x1B[39m\n' +
+      'Received: \x1B[31m400\x1B[39m',
+    name: 'toEqual',
+    pass: false
+  },
+  level: 'error',
+  timestamp: '2023-09-15T12:21:33.067Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T12:22:30.792Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T12:22:30.816Z'
+}
+{
+  name: 'Error',
+  statusCode: 404,
+  status: 'failure',
+  data: undefined,
+  isOperational: true,
+  level: 'error',
+  timestamp: '2023-09-15T12:22:34.642Z'
+}
+{
+  matcherResult: {
+    actual: 404,
+    expected: 200,
+    message: '\x1B[2mexpect(\x1B[22m\x1B[31mreceived\x1B[39m\x1B[2m).\x1B[22mtoEqual\x1B[2m(\x1B[22m\x1B[32mexpected\x1B[39m\x1B[2m) // deep equality\x1B[22m\n' +
+      '\n' +
+      'Expected: \x1B[32m200\x1B[39m\n' +
+      'Received: \x1B[31m404\x1B[39m',
+    name: 'toEqual',
+    pass: false
+  },
+  level: 'error',
+  timestamp: '2023-09-15T12:22:34.699Z'
+}
+{
+  name: 'Error',
+  statusCode: 404,
+  status: 'failure',
+  data: undefined,
+  isOperational: true,
+  level: 'error',
+  timestamp: '2023-09-15T12:22:34.937Z'
+}
+{
+  matcherResult: {
+    actual: 404,
+    expected: 200,
+    message: '\x1B[2mexpect(\x1B[22m\x1B[31mreceived\x1B[39m\x1B[2m).\x1B[22mtoEqual\x1B[2m(\x1B[22m\x1B[32mexpected\x1B[39m\x1B[2m) // deep equality\x1B[22m\n' +
+      '\n' +
+      'Expected: \x1B[32m200\x1B[39m\n' +
+      'Received: \x1B[31m404\x1B[39m',
+    name: 'toEqual',
+    pass: false
+  },
+  level: 'error',
+  timestamp: '2023-09-15T12:22:34.997Z'
+}
+{
+  name: 'Error',
+  statusCode: 404,
+  status: 'failure',
+  data: undefined,
+  isOperational: true,
+  level: 'error',
+  timestamp: '2023-09-15T12:22:35.235Z'
+}
+{
+  matcherResult: {
+    actual: 404,
+    expected: 200,
+    message: '\x1B[2mexpect(\x1B[22m\x1B[31mreceived\x1B[39m\x1B[2m).\x1B[22mtoEqual\x1B[2m(\x1B[22m\x1B[32mexpected\x1B[39m\x1B[2m) // deep equality\x1B[22m\n' +
+      '\n' +
+      'Expected: \x1B[32m200\x1B[39m\n' +
+      'Received: \x1B[31m404\x1B[39m',
+    name: 'toEqual',
+    pass: false
+  },
+  level: 'error',
+  timestamp: '2023-09-15T12:22:35.276Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T12:24:29.849Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T12:24:29.876Z'
+}
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { email: 1 },
+  keyValue: { email: 'markessien3@test.com' },
+  level: 'error',
+  timestamp: '2023-09-15T12:24:33.627Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
