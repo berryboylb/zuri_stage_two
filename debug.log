@@ -3575,3 +3575,12 @@
   level: 'debug',
   timestamp: '2023-09-15T13:03:05.823Z'
 }
+{
+  name: 'Error',
+  statusCode: 400,
+  status: 'failure',
+  data: undefined,
+  isOperational: true,
+  level: 'error',
+  timestamp: '2023-09-15T13:03:17.167Z'
+}
