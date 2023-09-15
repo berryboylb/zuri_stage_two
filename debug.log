@@ -3516,3 +3516,62 @@
   timestamp: '2023-09-15T12:24:33.627Z',
   [Symbol(errorLabels)]: Set(0) {}
 }
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T13:01:11.118Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T13:01:11.126Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T13:01:31.142Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T13:01:31.148Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T13:02:13.269Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T13:02:13.276Z'
+}
+{
+  name: 'Error',
+  statusCode: 400,
+  status: 'failure',
+  data: undefined,
+  isOperational: true,
+  level: 'error',
+  timestamp: '2023-09-15T13:02:17.399Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T13:02:51.918Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T13:02:51.926Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-09-15T13:03:05.813Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-09-15T13:03:05.823Z'
+}

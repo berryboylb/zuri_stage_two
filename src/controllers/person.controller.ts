@@ -9,7 +9,15 @@ import { Person } from "../schemas/person.schema";
 const exportResult = {
   async createPerson(req: Request, res: Response, next: NextFunction) {
     try {
-      console.log(req.body)
+      console.log(req.body);
+      const personExist = await PersonService.findOne({
+        $or: [{ email: req.body.email }, { phoneNumber: req.body.phoneNumber }],
+      });
+      if (personExist)
+        throw new AppError(
+          StatusCodes.BAD_REQUEST,
+          "PhoneNumber or email already used"
+        );
       const person = await PersonService.create(req.body);
       return res
         .status(StatusCodes.OK)
@@ -59,11 +67,11 @@ const exportResult = {
     try {
       if (!id && !fullName)
         throw new AppError(StatusCodes.BAD_REQUEST, "invalid id/fullname");
-       const personExist = await PersonService.findOne({
-         $or: [{ _id: id }, { fullName }],
-       });
-       if (!personExist)
-         throw new AppError(StatusCodes.NOT_FOUND, "Record not found");
+      const personExist = await PersonService.findOne({
+        $or: [{ _id: id }, { fullName }],
+      });
+      if (!personExist)
+        throw new AppError(StatusCodes.NOT_FOUND, "Record not found");
       const person = await PersonService.findOneAndUpdate(
         {
           $or: [

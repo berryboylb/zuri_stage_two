@@ -13,6 +13,11 @@ const exportResult = {
     async createPerson(req, res, next) {
         try {
             console.log(req.body);
+            const personExist = await person_service_1.default.findOne({
+                $or: [{ email: req.body.email }, { phoneNumber: req.body.phoneNumber }],
+            });
+            if (personExist)
+                throw new error_1.default(http_status_codes_1.StatusCodes.BAD_REQUEST, "PhoneNumber or email already used");
             const person = await person_service_1.default.create(req.body);
             return res
                 .status(http_status_codes_1.StatusCodes.OK)
